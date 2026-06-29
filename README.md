@@ -2,8 +2,8 @@
 
 A cost-sensitive churn prediction pipeline comparing Logistic Regression, Random Forest, LightGBM, and a soft-voting ensemble — with an interactive Streamlit app for live predictions and SHAP-based explanations.
 
-**Live demo:** [https://churn-predictor-broccoli-1927.streamlit.app/](#)
-**Notebook:** [`notebooks/churn_pipeline.ipynb`](notebooks/churn_pipeline.ipynb)
+**Live demo:** [https://churn-predictor-broccoli-1927.streamlit.app/]
+**Notebook:** [`notebooks/churn_pipeline.ipynb`](notebook/churn_pipeline.ipynb)
 
 ---
 
